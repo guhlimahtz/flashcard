@@ -46,4 +46,3 @@ criaCartao(
     'Ex presidente do Brasil'
 )
     
-s
